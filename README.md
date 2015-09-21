@@ -5,7 +5,7 @@ It can mirror private repositories which are accessible with your credentials.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.5 or upper
 - `git` executable
 
 ## Configuration
